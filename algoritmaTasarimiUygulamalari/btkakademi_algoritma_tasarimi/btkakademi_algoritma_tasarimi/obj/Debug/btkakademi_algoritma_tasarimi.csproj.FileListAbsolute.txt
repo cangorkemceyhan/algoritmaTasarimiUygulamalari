@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\bin\Debug\btkakademi_algoritma_tasarimi.exe.config
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\bin\Debug\btkakademi_algoritma_tasarimi.exe
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\bin\Debug\btkakademi_algoritma_tasarimi.pdb
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\obj\Debug\btkakademi_algoritma_tasarimi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\obj\Debug\btkakademi_algoritma_tasarimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\obj\Debug\btkakademi_algoritma_tasarimi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\obj\Debug\btkakademi_algoritma_tasarimi.exe
+C:\Users\hp\source\repos\btkakademi_algoritma_tasarimi\btkakademi_algoritma_tasarimi\obj\Debug\btkakademi_algoritma_tasarimi.pdb

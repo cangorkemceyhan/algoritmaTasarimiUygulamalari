@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\bin\Debug\algoritma_tasarimi_oop.exe.config
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\bin\Debug\algoritma_tasarimi_oop.exe
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\bin\Debug\algoritma_tasarimi_oop.pdb
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\obj\Debug\algoritma_tasarimi_oop.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\obj\Debug\algoritma_tasarimi_oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\obj\Debug\algoritma_tasarimi_oop.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\obj\Debug\algoritma_tasarimi_oop.exe
+C:\Users\hp\source\repos\algoritma_tasarimi_oop\algoritma_tasarimi_oop\obj\Debug\algoritma_tasarimi_oop.pdb
